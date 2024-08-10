@@ -64,3 +64,27 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## University Student Management System
+
+## Description
+A web application to manage students and teachers, including CRUD operations and user authentication. Built with Laravel for the backend and Bootstrap for the frontend.
+
+## Features
+- Add, edit, and delete students and teachers.
+- Pagination for listing students and teachers.
+- Soft delete functionality for students.
+- Confirmation pop-ups for deletion actions.
+- User authentication for secure access.
+
+## Technologies Used
+- **Backend**: Laravel
+- **Frontend**: Bootstrap
+- **Database**: MySQL
+
+## Installation
+To set up this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/university_student_management.git
+
